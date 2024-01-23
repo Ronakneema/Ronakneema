@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ronak Neema</h1>
-<h3 align="center">A passionate frontend developer from India presueing masters in computer science from University of Colorado, Denver, USA</h3>
+<h3 align="center">A passionate FullStack developer from India with 3 years of industry experience in web development.</h3>
+🔭 I’m currently working on:
+Pursuing a master's in computer science from the University of Colorado, Denver, USA.
 
-- 📫 How to reach me **neemaronak17@gmail.com**
+👯 I’m looking to collaborate on:
+Fullstack projects, Summer Internship opportunities
+
+🌱 I’m currently learning:
+DSA and python.
+
+
+- 📫 How to reach me **ronak.neema@ucdenver.edu or neemaronak17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
