@@ -2,12 +2,10 @@
 <h3 align="center">A passionate FullStack developer from India with 3 years of industry experience in web development.</h3>
 🔭 I’m currently working on:
 Pursuing a master's in computer science from the University of Colorado, Denver, USA.
-
 👯 I’m looking to collaborate on:
 Fullstack projects, Summer Internship opportunities
-
 🌱 I’m currently learning:
-DSA and python.
+DSA and Python.
 
 
 - 📫 How to reach me **ronak.neema@ucdenver.edu or neemaronak17@gmail.com**
